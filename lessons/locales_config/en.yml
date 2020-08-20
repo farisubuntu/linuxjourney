@@ -25,7 +25,7 @@ en:
       lang: "Language"
       flag: "flags/United_States_of_America.png"
   home:
-    tagline: 
+    tagline:
       title: "Learn the ways of Linux-fu, for free."
     subscribe:
       title: "Subscribe"
@@ -34,12 +34,12 @@ en:
       title: "About Us"
       body: "The knowledge gained here today was powered by the open-source community."
       url_name: "Contribute and Collaborate"
-      url: "https://github.com/cindyq/linuxjourney"
+      url: "https://github.com/farisubuntu/linuxjourney"
     contact:
       title: "Contact Us"
       body: "See a bug? Any complaints? Just want to send a note?"
       url_name: "Let us know"
-      url: "contact@linuxjourney.com"
+      url: "farisubuntu@gmail.com"
   courses:
     titles:
       exercises: "Exercises"
